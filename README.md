@@ -52,7 +52,7 @@ is [HERE!](https://VPM-LMS.netlify.com/)
 
 Just for a couple of commands, you will have your own LMS, here we go:
 
-> $ gatsby new my-project https://github.com/a-deeb/VPM-LMS
+> $ gatsby new my-project https://github.com/a-deeb/visionplaymedia-lms
 
 > $ cd my-project
 
